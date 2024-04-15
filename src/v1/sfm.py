@@ -361,8 +361,8 @@ class SFM(object):
 def SetArguments(parser): 
 
     #directory stuff
-    parser.add_argument('--data_dir',action='store',type=str,default='../data/',dest='data_dir',
-                        help='root directory containing input data (default: ../data/)') 
+    parser.add_argument('--data_dir',action='store',type=str,default='../../data/',dest='data_dir',
+                        help='root directory containing input data (default: ../../data/)') 
     parser.add_argument('--dataset',action='store',type=str,default='fountain-P11',dest='dataset',
                         help='name of dataset (default: fountain-P11)') 
     parser.add_argument('--ext',action='store',type=str,default='jpg,png',dest='ext', 
