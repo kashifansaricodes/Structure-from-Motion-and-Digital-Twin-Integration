@@ -1,13 +1,15 @@
-# 3D Reconstruction and Digital Twin Integration  
+# (Structure from Motion) 3D Reconstruction and Digital Twin Integration  
 
 ## Overview  
 This project involves creating a high-quality 3D digital twin of a JBL speaker, starting from image capture to its final integration into simulation environments like Gazebo and Isaac Sim. The workflow includes structure-from-motion (SfM) techniques, 3D point cloud processing, and mesh optimization for simulation-ready models.  
 
 ---
 
-![1734672971852](https://github.com/user-attachments/assets/d7f318a0-a1d2-4d0f-8a02-4abd00f62118)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/d7f318a0-a1d2-4d0f-8a02-4abd00f62118" alt="Image 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8a6898d6-74ca-416e-8e62-b8d435dde0ba" alt="Image 2" width="45%" />
+</div>
 
-![1734672877626](https://github.com/user-attachments/assets/8a6898d6-74ca-416e-8e62-b8d435dde0ba)
 
 ![1734672723911](https://github.com/user-attachments/assets/7173907b-854b-45cf-b068-11078623fb3a)
 
